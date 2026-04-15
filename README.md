@@ -33,8 +33,12 @@
 ---
 
 ### 🚀 Latest Projects
-<!-- RECENT_REPOS:START --> 
-
+<!-- RECENT_REPOS:START -->
+- [nabeelaananda pushed nabeelaananda](https://github.com/nabeelaananda/nabeelaananda/compare/053309f8f9...cc4438a90e)
+- [nabeelaananda pushed nabeelaananda](https://github.com/nabeelaananda/nabeelaananda/compare/c7188c6d66...053309f8f9)
+- [nabeelaananda pushed nabeelaananda](https://github.com/nabeelaananda/nabeelaananda/compare/c88cf2f040...c7188c6d66)
+- [nabeelaananda pushed nabeelaananda](https://github.com/nabeelaananda/nabeelaananda/compare/969dfa4ee9...c88cf2f040)
+- [nabeelaananda pushed nabeelaananda](https://github.com/nabeelaananda/nabeelaananda/compare/93a8ac3856...969dfa4ee9)
 <!-- RECENT_REPOS:END -->
 ---
 
