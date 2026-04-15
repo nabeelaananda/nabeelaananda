@@ -5,17 +5,38 @@ on:
       - main
   schedule:
     - cron: '0 * * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      
+      - name: Fetch Repos and Update README
+        uses: actions/github-script@v7
         with:
-          comment_tag_name: "RECENT_REPOS"
-          feed_list: "https://github.com/nabeelaananda.atom"
-          max_post_count: 5
+          script: |
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: context.repo.owner,
+              sort: 'updated',
+              per_page: 5
+            });
+            const fs = require('fs');
+            const list = repos.map(repo => `- [**${repo.name}**](${repo.html_url}) ${repo.description ? '— ' + repo.description : ''}`).join('\n');
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /[\s\S]*/,
+              `\n${list}\n`
+            );
+            fs.writeFileSync('README.md', readme);
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Auto-update latest projects" || echo "No changes to commit"
+          git push
