@@ -21,9 +21,13 @@ jobs:
         env:
           USERNAME: nabeelaananda
         run: |
-          repos_json=$(curl -s "https://api.github.com/users/$USERNAME/repos?type=public&sort=updated&per_page=6")
-          echo "$repos_json" | jq -r '.[] | "- [" + .name + "](" + .html_url + ") — " + (.description // "No description")' > recent_repos.md
-
+          repos_json=$(curl -s "https://api.github.com/users/$USERNAME/repos?type=public&sort=updated&per_page=100")
+          echo "$repos_json" | jq -r '
+            .[]
+            | select(.name != env.USERNAME)
+            | "- [" + .name + "](" + .html_url + ") — " + (.description // "No description")
+          ' | head -n 6 > recent_repos.md
+          
       - name: Update README markers
         run: |
           START="<!-- RECENT_REPOS:START -->"
