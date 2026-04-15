@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nabila! 👩🏻‍🎓
+# Hi, Beela's here! 
 ### 📊 Accounting Student | Data Science Enthusiast | Aspiring Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nabila_Ananda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilaanandafauzi)
@@ -32,11 +32,7 @@
 
 ---
 
-### 🚀 Featured Projects
-- 💰 **[Finance Transaction Analyzer](https://github.com/nabeelaananda/finance-transaction-analyzer-python)** - A Python CLI application to analyze cash flow, calculate averages, and summarize personal financial transactions.
-- 🤖 **[CLI AI Chatbot](https://github.com/nabeelaananda/cli-ai-chatbot)** - A Python application for continuous AI conversations integrating the Mimo API.
-- 📚 **[Python Library System](https://github.com/nabeelaananda/python-library-system)** - A foundational project demonstrating Object-Oriented Programming (OOP) principles.
-- 🌌 **[Star Wars API Fetcher](https://github.com/nabeelaananda/star-wars-api-fetcher)** - A script to fetch and explore Star Wars universe data using a REST API.
+### 🚀 Latest Projects
 
 ---
 
