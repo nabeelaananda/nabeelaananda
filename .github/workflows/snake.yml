@@ -11,12 +11,14 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write # <--- Ini kunci untuk memperbaiki Error 128
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # <--- Diupdate ke v4 untuk menghilangkan Warning
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -29,7 +31,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.3.0 # <--- Diupdate ke v4 untuk menghilangkan Warning
         with:
           target_branch: output
           build_dir: dist
