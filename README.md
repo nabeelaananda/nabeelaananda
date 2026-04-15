@@ -27,35 +27,60 @@
 ---
 
 ## Tech Stack (learning-by-building)
-**Core**
-  
-<img src="https://img.shields.io/badge/Python-FFF6ED?style=for-the-badge&logo=python&logoColor=7A5C47" />
-<img src="https://img.shields.io/badge/SQL-FFF6ED?style=for-the-badge&logo=postgresql&logoColor=7A5C47" />
 
-**Data Analysis**
-  
-<img src="https://img.shields.io/badge/Pandas-FFF6ED?style=for-the-badge&logo=pandas&logoColor=7A5C47" />
-<img src="https://img.shields.io/badge/NumPy-FFF6ED?style=for-the-badge&logo=numpy&logoColor=7A5C47" />
+<table align="center" width="100%" style="border-collapse:separate;border-spacing:14px;">
+  <tr>
+    <td width="33%" valign="top" style="background:#FFF6ED;border:1px solid #E7C9A9;border-radius:16px;padding:16px;">
+      <div style="font-weight:700;color:#7A5C47;font-size:15px;margin-bottom:10px;">Core</div>
+      <div>
+        <img src="https://img.shields.io/badge/Python-FFF6ED?style=for-the-badge&logo=python&logoColor=7A5C47" />
+        <img src="https://img.shields.io/badge/SQL-FFF6ED?style=for-the-badge&logo=postgresql&logoColor=7A5C47" />
+      </div>
+    </td>
 
-**Visualization**
-  
-<img src="https://img.shields.io/badge/Matplotlib-FFF6ED?style=for-the-badge&logo=matplotlib&logoColor=7A5C47" />
-<img src="https://img.shields.io/badge/Seaborn-FFF6ED?style=for-the-badge&logoColor=7A5C47" />
+    <td width="33%" valign="top" style="background:#FFF6ED;border:1px solid #E7C9A9;border-radius:16px;padding:16px;">
+      <div style="font-weight:700;color:#7A5C47;font-size:15px;margin-bottom:10px;">Data Analysis</div>
+      <div>
+        <img src="https://img.shields.io/badge/Pandas-FFF6ED?style=for-the-badge&logo=pandas&logoColor=7A5C47" />
+        <img src="https://img.shields.io/badge/NumPy-FFF6ED?style=for-the-badge&logo=numpy&logoColor=7A5C47" />
+      </div>
+    </td>
 
-**Notebooks**
-  
-<img src="https://img.shields.io/badge/Jupyter-FFF6ED?style=for-the-badge&logo=jupyter&logoColor=7A5C47" />
-<img src="https://img.shields.io/badge/Google_Colab-FFF6ED?style=for-the-badge&logo=googlecolab&logoColor=7A5C47" />
+    <td width="33%" valign="top" style="background:#FFF6ED;border:1px solid #E7C9A9;border-radius:16px;padding:16px;">
+      <div style="font-weight:700;color:#7A5C47;font-size:15px;margin-bottom:10px;">Visualization</div>
+      <div>
+        <img src="https://img.shields.io/badge/Matplotlib-FFF6ED?style=for-the-badge&logoColor=7A5C47" />
+        <img src="https://img.shields.io/badge/Seaborn-FFF6ED?style=for-the-badge&logoColor=7A5C47" />
+      </div>
+    </td>
+  </tr>
 
-**BI & Spreadsheets**
-  
-<img src="https://img.shields.io/badge/Microsoft_Excel-FFF6ED?style=for-the-badge&logo=microsoftexcel&logoColor=7A5C47" />
-<img src="https://img.shields.io/badge/Power_BI-FFF6ED?style=for-the-badge&logo=powerbi&logoColor=7A5C47" />
+  <tr>
+    <td width="33%" valign="top" style="background:#FFF6ED;border:1px solid #E7C9A9;border-radius:16px;padding:16px;">
+      <div style="font-weight:700;color:#7A5C47;font-size:15px;margin-bottom:10px;">Notebooks</div>
+      <div>
+        <img src="https://img.shields.io/badge/Jupyter-FFF6ED?style=for-the-badge&logo=jupyter&logoColor=7A5C47" />
+        <img src="https://img.shields.io/badge/Google_Colab-FFF6ED?style=for-the-badge&logo=googlecolab&logoColor=7A5C47" />
+      </div>
+    </td>
 
-**Learning next**
-  
-<img src="https://img.shields.io/badge/Statistics-FFF6ED?style=for-the-badge&logoColor=7A5C47" />
-<img src="https://img.shields.io/badge/Data_Storytelling-FFF6ED?style=for-the-badge&logoColor=7A5C47" />
+    <td width="33%" valign="top" style="background:#FFF6ED;border:1px solid #E7C9A9;border-radius:16px;padding:16px;">
+      <div style="font-weight:700;color:#7A5C47;font-size:15px;margin-bottom:10px;">BI & Spreadsheets</div>
+      <div>
+        <img src="https://img.shields.io/badge/Microsoft_Excel-FFF6ED?style=for-the-badge&logo=microsoftexcel&logoColor=7A5C47" />
+        <img src="https://img.shields.io/badge/Power_BI-FFF6ED?style=for-the-badge&logo=powerbi&logoColor=7A5C47" />
+      </div>
+    </td>
+
+    <td width="33%" valign="top" style="background:#FFF6ED;border:1px solid #E7C9A9;border-radius:16px;padding:16px;">
+      <div style="font-weight:700;color:#7A5C47;font-size:15px;margin-bottom:10px;">Learning next</div>
+      <div>
+        <img src="https://img.shields.io/badge/Statistics-FFF6ED?style=for-the-badge&logoColor=7A5C47" />
+        <img src="https://img.shields.io/badge/Data_Storytelling-FFF6ED?style=for-the-badge&logoColor=7A5C47" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
