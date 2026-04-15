@@ -40,7 +40,6 @@
 
 ---
 
-### 📈 GitHub Metrics
 <div align="center">
   <table border="0">
     <tr>
@@ -60,7 +59,6 @@
 
 ---
   
-### 🐍 My Contribution Snake
 <img src="https://raw.githubusercontent.com/nabeelaananda/nabeelaananda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
