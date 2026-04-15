@@ -33,7 +33,6 @@
 ---
 
 ### 🚀 Latest Projects
-
 ---
 
 <div align="center">
