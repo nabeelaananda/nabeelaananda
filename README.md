@@ -16,7 +16,7 @@
 ### 📑 About Me
 - 🎓 **Education**: Accounting at **Universitas Padjadjaran**, Class of 2023.
 - 🎯 **Goal**: Transitioning into the world of **Data Science & Analytics**.
-- 📍 **Based In**: Indonesia 🇮🇩 
+- 📍 **Based In**: Indonesia 🇮🇩
 - 🌍 **Aspiration**: Bridging Accounting with Data Analytics, Sustainability Reporting, and Social Impact.
 
 ---
@@ -24,39 +24,32 @@
 ### 🛠️ Tech Stack & Learning Journey
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
 
-**Core (Data & Programming)**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
+**Core (Data & Programming)**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-      </td>
-      <td valign="top" width="33%">
+**Data Analysis & Manipulation**
 
-**Data Analysis & Manipulation**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Visualization (Learning)**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)  
+**Visualization (Learning)**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-      </td>
-      <td valign="top" width="33%">
+**Notebooks & Workflow**
 
-**Notebooks & Workflow**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
-**BI & Spreadsheets**  
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)  
+**BI & Spreadsheets**
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
 
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -77,19 +70,19 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=555555" [...]
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=555555" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=555555" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=555555" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaananda&theme=transparent&hide_border=true&stroke=BBBBBB&ring=2196F3&fire=2196F3&currStreakNum=444444&sideLabels=444444" />
+<img height="190" src="https://streak-stats.demolab.com?user=nabeelaananda&theme=transparent&hide_border=true&stroke=BBBBBB&ring=2196F3&fire=2196F3&currStreakNum=444444&sideLabels=444444" alt="GitHub streak" />
 
 </div>
 
----  
+---
 
 <img src="https://raw.githubusercontent.com/nabeelaananda/nabeelaananda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
 <div align="center">
-  <sub>"Numbers tell a story, I'm just here to translate them into insights." </sub>
+  <sub>"Numbers tell a story, I'm just here to translate them into insights."</sub>
 </div>
