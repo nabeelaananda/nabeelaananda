@@ -1,23 +1,51 @@
-name: Update Recent Repos
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+name: Update README recent repos
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+
+permissions:
+  contents: write
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://github.com/nabeelaananda.atom"
-          max_post_count: 5
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Build recent repo list
+        env:
+          USERNAME: nabeelaananda
+        run: |
+          repos_json=$(curl -s "https://api.github.com/users/$USERNAME/repos?type=public&sort=updated&per_page=6")
+          echo "$repos_json" | jq -r '.[] | "- [" + .name + "](" + .html_url + ") — " + (.description // "No description")' > recent_repos.md
+
+      - name: Update README markers
+        run: |
+          START="<!-- RECENT_REPOS:START -->"
+          END="<!-- RECENT_REPOS:END -->"
+
+          awk -v start="$START" -v end="$END" '
+            BEGIN {inblock=0}
+            $0==start {print; inblock=1; system("cat recent_repos.md"); next}
+            $0==end {inblock=0; print; next}
+            inblock==0 {print}
+          ' README.md > README.new.md
+
+          mv README.new.md README.md
+
+      - name: Commit & push (if changed)
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update recent repos in README"
+          git push
