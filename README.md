@@ -42,14 +42,23 @@
 
 ### 📈 GitHub Metrics
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeelaananda&show_icons=true&theme=extracool&hide_border=true&title_color=5da5da&icon_color=5da5da&text_color=777777&bg_color=00000000" alt="Beela's Stats" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=A0A0A0&icon_color=87CEEB&text_color=999999&bg_color=00000000" width="350" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=A0A0A0&text_color=999999&bg_color=00000000" width="300" />
+      </td>
+    </tr>
+  </table>
   
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=extracool&hide_border=true&title_color=5da5da&text_color=777777&bg_color=00000000" alt="Beela's Languages" />
-
   <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaananda&theme=extracool&hide_border=true&stroke=dddddd&ring=5da5da&fire=5da5da&currStreakNum=777777&sideLabels=777777&bg_color=00000000" alt="Beela's Streak" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaananda&theme=transparent&hide_border=true&stroke=DDDDDD&ring=87CEEB&fire=87CEEB&currStreakNum=999999&sideLabels=999999&bg_color=00000000" width="400" />
 </div>
+
+---
   
 ### 🐍 My Contribution Snake
 <img src="https://raw.githubusercontent.com/nabeelaananda/nabeelaananda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
