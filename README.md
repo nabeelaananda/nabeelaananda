@@ -36,8 +36,7 @@
 ---
 
 ### 🚀 Featured Projects
-<!-- RECENT_REPOS:START --> 
-
+<!-- RECENT_REPOS:START -->
 <!-- RECENT_REPOS:END -->
 ---
 
