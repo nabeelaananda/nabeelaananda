@@ -31,7 +31,11 @@
 </div>
 
 ---
+
 ### 🚀 Latest Projects
+<!-- RECENT_REPOS:START --> 
+
+<!-- RECENT_REPOS:END -->
 ---
 
 <div align="center">
