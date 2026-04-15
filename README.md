@@ -18,6 +18,20 @@
 
 ---
 
+### 🛠️ Tech Stack & Learning Journey
+<div align="left">
+  
+**Data & Programming:**
+<br />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</div>
+
+---
+
 ### 🚀 Featured Projects
 - 💰 **[Finance Transaction Analyzer](https://github.com/nabeelaananda/finance-transaction-analyzer-python)** - A Python CLI application to analyze cash flow, calculate averages, and summarize personal financial transactions.
 - 🤖 **[CLI AI Chatbot](https://github.com/nabeelaananda/cli-ai-chatbot)** - A Python application for continuous AI conversations integrating the Mimo API.
