@@ -1,119 +1,66 @@
-<!-- Header Section -->
+<div align="center">
 
-<h1 align="center">hi, i'm nabila ananda 🩰</h1>
+# Hi, I'm Nabila! 👩🏻‍🎓
+### 📊 Accounting Student | Data Science Enthusiast | Aspiring Analyst
 
 <p align="center">
-<b>accounting student @ unpad</b> • <b>content creator</b> • <b>based in jatinangor</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Bridging+Finance+and+Data;Python+and+SQL+Lover;Building+Insights+from+Numbers" alt="Typing SVG" />
 </p>
 
-<!-- Intro -->
-
-<div align="center">
-
-currently in my <b>semester 6</b> era. 🕯️
-
-
-
-
-
-trying to survive advanced auditing, chasing balance (sheets), and romanticizing the uni grind.
-
-
-
-
-
-
-<!-- TikTok Badge -->
-
-<a href="https://www.google.com/search?q=https://tiktok.com/%40beesmemories">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/tiktok-%2540beesmemories-000000%3Fstyle%3Dfor-the-badge%26logo%3Dtiktok%26logoColor%3Dwhite"/>
-</a>
-
-
-
-
-
-<sub>(my digital diary & visual dump ✨)</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nabila_Ananda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilaanandafauzi)
+[![GitHub](https://img.shields.io/badge/GitHub-nabeelaananda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabeelaananda)
 
 </div>
 
-<!-- About Me -->
+---
 
-☁️ the lore
+### 📑 About Me
+- 🎓 **Education**: Accounting at **Universitas Padjadjaran**, Class of 2023.
+- 🎯 **Goal**: Transitioning into the world of **Data Science & Analytics**.
+- 📍 **Based In**: Indonesia 🇮🇩 
+- 🌍 **Aspiration**: Bridging Accounting with Data Analytics, Sustainability Reporting, and Social Impact.
 
-👩‍💻 uni life: officially surviving the chaos of 3rd year at Universitas Padjadjaran.
+---
 
+### 🛠️ Tech Stack & Learning Journey
+<div align="left">
+  
+**Data & Programming:**
+<br />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-
-
-
-☕ current status: fueled by iced lattes and deadline adrenaline.
-
-
-
-
-
-📝 focus: financial reporting, audit compliance, and keeping my GPA sane.
-
-
-
-
-
-🎨 side quest: content creation. making the mundane look magical.
-
-<!-- Skills / Toolkit -->
-
-🎒 starter pack
-
-the analytical side 🧠
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Microsoft%2520Excel-217346%3Fstyle%3Dflat-square%26logo%3Dmicrosoft-excel%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Financial%2520Analysis-00599C%3Fstyle%3Dflat-square%26logo%3Dgoogle-sheets%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Auditing-5D3F6A%3Fstyle%3Dflat-square%26logo%3Daccounting%26logoColor%3Dwhite" />
-
-the creative side 🎀
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-CapCut-000000%3Fstyle%3Dflat-square%26logo%3Dtiktok%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Canva-00C4CC%3Fstyle%3Dflat-square%26logo%3Dcanva%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Lightroom-31A8FF%3Fstyle%3Dflat-square%26logo%3Dadobe%2520lightroom%26logoColor%3Dwhite" />
-
-<!-- Aesthetic Divider -->
-
-<div align="center">
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3aW1zZ2t4eDN6aW1zZ2t4eDN6aW1zZ2t4eDN6aW1zZ2t4eDN6aW1zZ2t4eDN6/3o7TKR1b2X6a1i1Kqk/giphy.gif" width="100%" height="30px" style="object-fit:cover;">
-
-
-
-
-
-<small><i>"romanticizing the hustle."</i></small>
 </div>
 
-<!-- Contact -->
+---
 
-💌 let's connect
+### 🚀 Featured Projects
+- 💰 **[Finance Transaction Analyzer](https://github.com/nabeelaananda/finance-transaction-analyzer-python)** - A Python CLI application to analyze cash flow, calculate averages, and summarize personal financial transactions.
+- 🤖 **[CLI AI Chatbot](https://github.com/nabeelaananda/cli-ai-chatbot)** - A Python application for continuous AI conversations integrating the Mimo API.
+- 📚 **[Python Library System](https://github.com/nabeelaananda/python-library-system)** - A foundational project demonstrating Object-Oriented Programming (OOP) principles.
+- 🌌 **[Star Wars API Fetcher](https://github.com/nabeelaananda/star-wars-api-fetcher)** - A script to fetch and explore Star Wars universe data using a REST API.
 
-<p align="left">
-<a href="https://www.google.com/search?q=https://instagram.com/nabeelananda">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/instagram-%2540nabeelananda-E4405F%3Fstyle%3Dflat%26logo%3Dinstagram%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/nabilaanandafauzi/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-nabilaanandafauzi-0077B5%3Fstyle%3Dflat%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:nabilaanandafauzi@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/email-nabilaanandafauzi%2540gmail.com-D14836%3Fstyle%3Dflat%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-</p>
+---
+
+### 📈 GitHub Metrics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabeelaananda&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" />
+</div>
+
+<br />
+
+<div align="center">
+  
+### 🐍 My Contribution Snake
+<img src="https://raw.githubusercontent.com/nabeelaananda/nabeelaananda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>"Numbers tell a story, I'm just here to translate them into insights." ✨</sub>
+</div>
