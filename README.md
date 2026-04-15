@@ -44,17 +44,17 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=A0A0A0&icon_color=87CEEB&text_color=999999&bg_color=00000000" width="350" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=555555&bg_color=00000000" width="360" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=A0A0A0&text_color=999999&bg_color=00000000" width="300" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=555555&bg_color=00000000" width="310" />
       </td>
     </tr>
   </table>
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaananda&theme=transparent&hide_border=true&stroke=DDDDDD&ring=87CEEB&fire=87CEEB&currStreakNum=999999&sideLabels=999999&bg_color=00000000" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaananda&theme=transparent&hide_border=true&stroke=BBBBBB&ring=2196F3&fire=2196F3&currStreakNum=444444&sideLabels=444444&bg_color=00000000" width="410" />
 </div>
 
 ---
