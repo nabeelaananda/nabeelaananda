@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=nabeelaananda&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views" />
+</div>
+
 <div align="center">
 
 # Hi, Beela's here! 👩🏻‍🎓
@@ -5,9 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nabila_Ananda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilaanandafauzi)
 [![GitHub](https://img.shields.io/badge/GitHub-nabeelaananda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabeelaananda)
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabeelaananda&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views" />
-</p>
 </div>
 
 ---
@@ -44,17 +45,17 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=555555&bg_color=00000000" width="360" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=55555[...]" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=555555&bg_color=00000000" width="310" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=555555&bg_col[...]" />
       </td>
     </tr>
   </table>
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaananda&theme=transparent&hide_border=true&stroke=BBBBBB&ring=2196F3&fire=2196F3&currStreakNum=444444&sideLabels=444444&bg_color=00000000" width="410" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaananda&theme=transparent&hide_border=true&stroke=BBBBBB&ring=2196F3&fire=2196F3&currStreakNum=444444&sideLabels=444444&bg_colo[...]" />
 </div>
 
 ---
