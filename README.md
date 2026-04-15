@@ -25,28 +25,27 @@
 
 <div align="center">
 
-**Core (Data & Programming)**
-
+**Core (Data & Programming)**<br/>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**Data Analysis & Manipulation**
-
+<br/><br/>
+**Data Analysis & Manipulation**<br/>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Visualization (Learning)**
-
+<br/><br/>
+**Visualization (Learning)**<br/>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-**Notebooks & Workflow**
-
+<br/><br/>
+**Notebooks & Workflow**<br/>
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
-**BI & Spreadsheets**
-
+<br/><br/>
+**BI & Spreadsheets**<br/>
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
 
@@ -70,10 +69,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=555555" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=555555" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=555555" [...]
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=555555" alt="Top[...]
 
-<img height="190" src="https://streak-stats.demolab.com?user=nabeelaananda&theme=transparent&hide_border=true&stroke=BBBBBB&ring=2196F3&fire=2196F3&currStreakNum=444444&sideLabels=444444" alt="GitHub streak" />
+<img height="190" src="https://streak-stats.demolab.com?user=nabeelaananda&theme=transparent&hide_border=true&stroke=BBBBBB&ring=2196F3&fire=2196F3&currStreakNum=444444&sideLabels=444444" alt="Git[...]
 
 </div>
 
