@@ -4,16 +4,18 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 * * * *' # Berjalan otomatis setiap jam
+    - cron: '0 * * * *'
+  workflow_dispatch: 
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "RECENT_REPOS"
           feed_list: "https://github.com/nabeelaananda.atom"
-          max_post_count: 5 
-          template: "- [ $title ]($url) - $description"
+          max_post_count: 5
