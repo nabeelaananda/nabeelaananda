@@ -3,10 +3,6 @@
 # Hi, I'm Nabila! 👩🏻‍🎓
 ### 📊 Accounting Student | Data Science Enthusiast | Aspiring Analyst
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Bridging+Finance+and+Data;Python+and+SQL+Lover;Building+Insights+from+Numbers" alt="Typing SVG" />
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nabila_Ananda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilaanandafauzi)
 [![GitHub](https://img.shields.io/badge/GitHub-nabeelaananda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabeelaananda)
 
@@ -46,13 +42,14 @@
 
 ### 📈 GitHub Metrics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabeelaananda&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeelaananda&show_icons=true&theme=algolia&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Beela's GitHub Stats" />
+  
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=algolia&hide_border=true&title_color=2196F3" alt="Beela's Top Languages" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaananda&theme=algolia&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3" alt="Beela's Streak" />
 </div>
-
-<br />
-
-<div align="center">
   
 ### 🐍 My Contribution Snake
 <img src="https://raw.githubusercontent.com/nabeelaananda/nabeelaananda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
