@@ -24,59 +24,52 @@
 ### 🛠️ Tech Stack & Learning Journey
 
 <table align="center" width="100%" style="border-collapse:separate;border-spacing:12px;">
-  <tr>
-    <td width="50%" valign="top" style="background:#FBFCFF;border:1px solid #E8EEFF;border-radius:16px;padding:18px;">
-      <div style="font-weight:700;color:#2F4B7C;font-size:15px;margin-bottom:12px;">Core</div>
-      <div>
-        <img src="https://img.shields.io/badge/Python-EEF4FF?style=for-the-badge&logo=python&logoColor=2F5EA8" />
-        <img src="https://img.shields.io/badge/SQL-EEF4FF?style=for-the-badge&logo=postgresql&logoColor=2F5EA8" />
-      </div>
-    </td>
-
-    <td width="50%" valign="top" style="background:#FBFCFF;border:1px solid #E8EEFF;border-radius:16px;padding:18px;">
-      <div style="font-weight:700;color:#2F4B7C;font-size:15px;margin-bottom:12px;">Notebooks</div>
-      <div>
-        <img src="https://img.shields.io/badge/Jupyter-EEF4FF?style=for-the-badge&logo=jupyter&logoColor=2F5EA8" />
-        <img src="https://img.shields.io/badge/Google%20Colab-EEF4FF?style=for-the-badge&logo=googlecolab&logoColor=2F5EA8" />
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top" style="background:#FBFCFF;border:1px solid #E8EEFF;border-radius:16px;padding:18px;">
-      <div style="font-weight:700;color:#2F4B7C;font-size:15px;margin-bottom:12px;">Data Analysis</div>
-      <div>
-        <img src="https://img.shields.io/badge/Pandas-EEF4FF?style=for-the-badge&logo=pandas&logoColor=2F5EA8" />
-        <img src="https://img.shields.io/badge/NumPy-EEF4FF?style=for-the-badge&logo=numpy&logoColor=2F5EA8" />
-      </div>
-    </td>
-
-    <td width="50%" valign="top" style="background:#FBFCFF;border:1px solid #E8EEFF;border-radius:16px;padding:18px;">
-      <div style="font-weight:700;color:#2F4B7C;font-size:15px;margin-bottom:12px;">Visualization</div>
-      <div>
-        <img src="https://img.shields.io/badge/Matplotlib-EEF4FF?style=for-the-badge&logoColor=2F5EA8" />
-        <img src="https://img.shields.io/badge/Seaborn-EEF4FF?style=for-the-badge&logoColor=2F5EA8" />
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top" style="background:#FBFCFF;border:1px solid #E8EEFF;border-radius:16px;padding:18px;">
-      <div style="font-weight:700;color:#2F4B7C;font-size:15px;margin-bottom:12px;">BI & Spreadsheets</div>
-      <div>
-        <img src="https://img.shields.io/badge/Microsoft%20Excel-EEF4FF?style=for-the-badge&logo=microsoftexcel&logoColor=2F5EA8" />
-        <img src="https://img.shields.io/badge/Power%20BI-EEF4FF?style=for-the-badge&logo=powerbi&logoColor=2F5EA8" />
-      </div>
-    </td>
-
-    <td width="50%" valign="top" style="background:#FBFCFF;border:1px solid #E8EEFF;border-radius:16px;padding:18px;">
-      <div style="font-weight:700;color:#2F4B7C;font-size:15px;margin-bottom:12px;">Learning Next</div>
-      <div>
-        <img src="https://img.shields.io/badge/Statistics-EEF4FF?style=for-the-badge&logoColor=2F5EA8" />
-        <img src="https://img.shields.io/badge/Data%20Storytelling-EEF4FF?style=for-the-badge&logoColor=2F5EA8" />
-      </div>
-    </td>
-  </tr>
+    <thead>
+        <tr>
+            <th>Core</th>
+            <th>Data Analysis / Visualization</th>
+            <th>Notebooks / BI & Spreadsheets</th>
+            <th>Learning Next (coming soon)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://www.mongodb.com/" target="_blank">MongoDB</a></td>
+            <td><a href="https://www.microsoft.com/en-us/learning/excel-training.aspx" target="_blank">Microsoft Excel</a></td>
+            <td><a href="https://jupyter.org/" target="_blank">Jupyter Notebooks</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://nodejs.org/en/" target="_blank">Node.js</a></td>
+            <td><a href="https://www.tableau.com/" target="_blank">Tableau</a></td>
+            <td><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">Microsoft Excel</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.python.org/" target="_blank">Python</a></td>
+            <td><a href="https://pandas.pydata.org/" target="_blank">Pandas</a></td>
+            <td><a href="https://www.r-project.org/" target="_blank">R</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a></td>
+            <td><a href="https://matplotlib.org/" target="_blank">Matplotlib</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a></td>
+            <td><a href="https://www.seaborn.pydata.org/" target="_blank">Seaborn</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.php.net/" target="_blank">PHP</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
 </table>
 
 ---
