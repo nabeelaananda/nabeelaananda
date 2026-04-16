@@ -21,27 +21,43 @@
 
 ---
 
-### 🛠️ Tech Stack & Learning Journey
+<div align="center">
+  <h3>🛠️ Tech Stack & Learning Journey</h3>
+</div>
 
-**Core (Data & Programming):**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Data Analysis & Manipulation:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Notebooks & Workflow:**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
-**BI & Spreadsheets:**  
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
-
-**Visualization (Learning):**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%">
+      <b>Core (Data & Programming)</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>Data Analysis & Manipulation</b><br><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>Notebooks & Workflow</b><br><br>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center">
+      <b>BI & Spreadsheets</b><br><br>
+      <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" />
+    </td>
+    <td align="center">
+      <b>Visualization (Learning)</b><br><br>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+    </td>
+    <td align="center">
+      </td>
+  </tr>
+</table>
 
 ---
 
