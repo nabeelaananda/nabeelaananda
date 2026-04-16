@@ -35,25 +35,6 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab)
-
-</div>
-
----
-
-<div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nabeelaananda&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=555555" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelaananda&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=555555" />
 
@@ -67,7 +48,29 @@
 <img src="https://raw.githubusercontent.com/nabeelaananda/nabeelaananda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
+
 ---
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudio)
+
+</div>
+
+---
+
 
 <div align="center">
   <sub>"Numbers tell a story, I'm just here to translate them into insights." </sub>
