@@ -33,7 +33,34 @@
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+  <h3>🛠️ Tech Stack & Learning Journey</h3>
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+
+<br>
+
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
+
+<br>
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -45,21 +72,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <h3>🛠️ Tech Stack & Learning Journey</h3>
-</div>
-
-![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudio)
-
----  
 
 <img src="https://raw.githubusercontent.com/nabeelaananda/nabeelaananda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
