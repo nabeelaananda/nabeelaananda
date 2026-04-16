@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi, Beela's here! ☁️
+# Hi, Beela here! 🦋
 ### Accounting Student | Data Science Enthusiast | Aspiring Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nabila_Ananda-A2D2FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilaanandafauzi)
@@ -13,7 +13,7 @@
 
 ---
 
-### 🥥 About Me
+### 👩🏻‍🎓 About Me
 - 🎓 **Education**: Accounting at **Universitas Padjadjaran**, Class of 2023.
 - 🎯 **Goal**: Transitioning into the world of **Data Science & Analytics**.
 - 📍 **Based In**: Indonesia 🇮🇩 
