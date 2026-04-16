@@ -70,5 +70,5 @@
 
 
 <div align="center">
-  <sub>"Numbers tell a story, I'm just here to translate them into insights." 🧊</sub>
+  <sub>"Numbers tell a story, I'm just here to translate them into insights." </sub>
 </div>
