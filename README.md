@@ -34,10 +34,6 @@
 ---
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Learning Journey</h3>
-</div>
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
@@ -66,9 +62,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 <img src="https://raw.githubusercontent.com/nabeelaananda/nabeelaananda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+</div>
 ---
 
 <div align="center">
