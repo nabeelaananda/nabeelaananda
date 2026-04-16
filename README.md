@@ -43,16 +43,10 @@
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
-
-<br>
-
 ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
-
-<br>
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter)
